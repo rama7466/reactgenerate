@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactgenerate/static/css/main.934c74b9.chunk.css",
+    "main.js": "/reactgenerate/static/js/main.ec5d3a44.chunk.js",
+    "main.js.map": "/reactgenerate/static/js/main.ec5d3a44.chunk.js.map",
+    "runtime-main.js": "/reactgenerate/static/js/runtime-main.2ba406ca.js",
+    "runtime-main.js.map": "/reactgenerate/static/js/runtime-main.2ba406ca.js.map",
+    "static/css/2.f4c56af9.chunk.css": "/reactgenerate/static/css/2.f4c56af9.chunk.css",
+    "static/js/2.c7dd0059.chunk.js": "/reactgenerate/static/js/2.c7dd0059.chunk.js",
+    "static/js/2.c7dd0059.chunk.js.map": "/reactgenerate/static/js/2.c7dd0059.chunk.js.map",
+    "static/js/3.84525939.chunk.js": "/reactgenerate/static/js/3.84525939.chunk.js",
+    "static/js/3.84525939.chunk.js.map": "/reactgenerate/static/js/3.84525939.chunk.js.map",
+    "index.html": "/reactgenerate/index.html",
+    "static/css/2.f4c56af9.chunk.css.map": "/reactgenerate/static/css/2.f4c56af9.chunk.css.map",
+    "static/css/main.934c74b9.chunk.css.map": "/reactgenerate/static/css/main.934c74b9.chunk.css.map",
+    "static/js/2.c7dd0059.chunk.js.LICENSE.txt": "/reactgenerate/static/js/2.c7dd0059.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ba406ca.js",
+    "static/css/2.f4c56af9.chunk.css",
+    "static/js/2.c7dd0059.chunk.js",
+    "static/css/main.934c74b9.chunk.css",
+    "static/js/main.ec5d3a44.chunk.js"
+  ]
+}
